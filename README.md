@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8h0reydlttfjjjdw?svg=true)](https://ci.appveyor.com/project/OPCSenator/autotests-2-3)
