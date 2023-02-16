@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2c71d63-876e-4f1e-b802-5f5f08f0d845" name="Changes" comment="" />
+    <list default="true" id="a2c71d63-876e-4f1e-b802-5f5f08f0d845" name="Changes" comment="Опять починил тест" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +15,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LnDbItKCe59cFjIEsPTMAQ58Yz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,6 +40,36 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="MobileBankApiTestV2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;MobileBankApiTestV2&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MobileBankApiTestV2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +79,49 @@
       <option name="presentableId" value="Default" />
       <updated>1676498022503</updated>
     </task>
+    <task id="LOCAL-00001" summary="Firts commit">
+      <created>1676499481893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676499481893</updated>
+    </task>
+    <task id="LOCAL-00002" summary="успешный тест">
+      <created>1676499523734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676499523734</updated>
+    </task>
+    <task id="LOCAL-00003" summary="добавил апвеёр">
+      <created>1676499574052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676499574052</updated>
+    </task>
+    <task id="LOCAL-00004" summary="добавил реадми">
+      <created>1676499860657</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676499860657</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Сломал тест для проверки">
+      <created>1676499982531</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676499982531</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Опять починил тест">
+      <created>1676500077446</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676500077446</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -51,5 +134,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Firts commit" />
+    <MESSAGE value="успешный тест" />
+    <MESSAGE value="добавил апвеёр" />
+    <MESSAGE value="добавил реадми" />
+    <MESSAGE value="Сломал тест для проверки" />
+    <MESSAGE value="Опять починил тест" />
+    <option name="LAST_COMMIT_MESSAGE" value="Опять починил тест" />
   </component>
 </project>
